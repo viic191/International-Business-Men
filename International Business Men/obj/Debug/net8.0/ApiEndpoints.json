@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "International_Business_Men.Controllers.InternationalBusinessMenController",
+    "Method": "DetailSku",
+    "RelativePath": "InternationalBusinessMen/DetailSku",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[International_Business_Men.Class.transactionsEur, International Business Men, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "DetailSKu"
+  },
+  {
+    "ContainingType": "International_Business_Men.Controllers.InternationalBusinessMenController",
+    "Method": "GetRates",
+    "RelativePath": "InternationalBusinessMen/GetRates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[International_Business_Men.Class.rates, International Business Men, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetRates"
+  },
+  {
+    "ContainingType": "International_Business_Men.Controllers.InternationalBusinessMenController",
+    "Method": "GetTransactions",
+    "RelativePath": "InternationalBusinessMen/GetTransactions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[International_Business_Men.Class.transactions, International Business Men, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetTransactions"
+  }
+]

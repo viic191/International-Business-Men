@@ -1,0 +1,6 @@
+@International_Business_Men_HostAddress = http://localhost:5256
+
+GET {{International_Business_Men_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

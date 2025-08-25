@@ -1,0 +1,38 @@
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\appsettings.json
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\International Business Men.staticwebassets.endpoints.json
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\International Business Men.exe
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\International Business Men.deps.json
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\International Business Men.runtimeconfig.json
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\International Business Men.dll
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\International Business Men.pdb
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\International Business Men.csproj.AssemblyReference.cache
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\International Business Men.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\International Business Men.AssemblyInfoInputs.cache
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\International Business Men.AssemblyInfo.cs
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\International Business Men.csproj.CoreCompileInputs.cache
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\International Business Men.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\International Business Men.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\scopedcss\bundle\International Business Men.styles.css
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\Internat.EDD46260.Up2Date
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\International Business Men.dll
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\refint\International Business Men.dll
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\International Business Men.pdb
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\International Business Men.genruntimeconfig.cache
+C:\Users\vic91\source\repos\International Business Men\International Business Men\obj\Debug\net8.0\ref\International Business Men.dll
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\Files\rates.json
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\Files\transactions.json
+C:\Users\vic91\source\repos\International Business Men\International Business Men\bin\Debug\net8.0\Newtonsoft.Json.dll
